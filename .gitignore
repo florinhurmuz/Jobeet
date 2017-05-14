@@ -21,6 +21,13 @@ $RECYCLE.BIN/
 # Operating System Files
 # =========================
 
+
+# Folders
+# =========================
+.idea/
+cache/
+log/
+
 # OSX
 # =========================
 
