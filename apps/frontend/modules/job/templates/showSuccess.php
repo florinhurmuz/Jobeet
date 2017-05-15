@@ -1,4 +1,4 @@
-<?php use_stylesheet('job.css') ?>
+<?php //use_stylesheet('job.css') ?>
 <?php use_helper('Text') ?>
 
 <?php slot('title') ?>
